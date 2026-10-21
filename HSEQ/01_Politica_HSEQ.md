@@ -1,6 +1,7 @@
 # Política HSEQ de JUJUNA (Almarithan Group SAS)
 
 **Almarithan Group SAS**, empresa dedicada a la comercialización de café colombiano (pergamino, verde, tostado en grano y molido) bajo la marca **JUJUNA**, se compromete a:
+Adjunte archivos arrastrándolos y soltándolos, seleccionándolos o pegándolos.
 
 1. **Calidad**: Ofrecer productos que cumplan con los más altos estándares de calidad, satisfaciendo las expectativas de nuestros clientes en Colombia y en los mercados de exportación, especialmente en Emiratos Árabes Unidos.
 2. **Seguridad y Salud en el Trabajo**: Garantizar un entorno de trabajo seguro y saludable para todos nuestros colaboradores, previniendo lesiones y deterioro de la salud mediante la identificación de peligros y la evaluación de riesgos.
